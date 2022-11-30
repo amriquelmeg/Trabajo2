@@ -1,5 +1,5 @@
-h1 ¨{text-align: center;}
-a:link {color: blue;}
+h1 {text-align: center;}
+a:link {color: rgb(153, 17, 142);}
 a:hover {color: darkgreen;}
 a:hover {background-color: aquamarine;}
 a:visited {color: red;}
