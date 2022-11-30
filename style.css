@@ -1,4 +1,5 @@
 h1 {text-align: center;}
+html {background-color: beige;}
 a:link {color: rgb(153, 17, 142);}
 a:hover {color: darkgreen;}
 a:hover {background-color: aquamarine;}
