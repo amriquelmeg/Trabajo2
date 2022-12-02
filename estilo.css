@@ -1,10 +1,20 @@
-h1, p { color:darkcyan }
-a:hover { color: palegreen }
+h1,
+p {
+    color: darkcyan
+}
+
+a:hover {
+    color: palegreen
+}
+
 .clase1 {
-    color:darkred 
+    color: darkred
 }
+
 .clase2 {
-     color:gold
+    color: gold
 }
-html {background-color:cadetblue
+
+html {
+    background-color: cadetblue
 }
