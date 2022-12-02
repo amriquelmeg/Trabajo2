@@ -1,9 +1,10 @@
-h1, p { color: red }
+h1, p { color:darkcyan }
 a:hover { color: palegreen }
 .clase1 {
-    color: blue
+    color:darkred 
 }
 .clase2 {
-     color: darksalmon
+     color:gold
 }
-
+html {background-color:cadetblue
+}
